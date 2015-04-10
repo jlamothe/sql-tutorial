@@ -1,4 +1,4 @@
 #!/bin/sh
 
 apt-get update
-apt-get -qy install sqlite
+apt-get -qy install sqlite3
